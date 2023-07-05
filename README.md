@@ -1,13 +1,14 @@
 ## Olá meu nome é Victor Ricardo!
 
-<a href="linkedin.com/in/victor-ricardo-oliveira-nunes-a631a9248" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/victor-ricardo-oliveira-nunes-a631a9248?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjWSQLz57Sjub6ZL%2BbslK8Q%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/victoroliver_rick" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:victoroliv2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ### Sobre
 Desenvolvedor dedicado e determinado. Procuro colocar em prática meus conhecimentos adiquiridos como integrante de equipe de Projeto Integrador(PI) na ETE Adv. José David Gil Rodrigues, em que desenvolvi um projeto desktop funcional feito em Python, assim também, com os aprendizados adiquiridos através da faculdade Estácio, e de outras experiências que tive.
 
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block">
   <a href="https://github.com/vitchin">
   <img align="center" height="200em" max-width="100%" src="https://github-readme-stats.vercel.app/api?username=vitchin&show_icons=true&theme=tokyonight">
   <img align="center" height="180em" max-width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitchin&layout=compact&langs_count=16&theme=tokyonight">
