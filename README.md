@@ -4,8 +4,10 @@
 <a href="https://instagram.com/victoroliver_rick" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:victoroliv2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+
 ## Sobre
-Profissional dedicado e empenhado. Tenho 18 anos e sou de Recife, busco aperfeiçoar minhas habilidades, colocar em prática meus conhecimentos adiquiridos, pelas instituições ETE Adv. José David Gil Rodrigues e Estácio, assim também dos aprendizados que tive num evento da Techstars Startup Weekend, entre outros. Atualmente sou formado como Técnico em Desenvovimento de Sistemas pela ETE Adv. José David Gil Rodrigues e estou no 4º periodo do curso de Análise em Desenvolvimento de Sistemas na Estácio. meu objetivo é conseguir uma oportunidade de trabalho na área de tecnologia.  
+Profissional dedicado e empenhado. Busco aperfeiçoar minhas habilidades, colocar em prática meus conhecimentos adiquiridos, pelas instituições ETE Adv. José David Gil Rodrigues e Estácio, assim também dos aprendizados que tive num evento da Techstars Startup Weekend, entre outros. Atualmente sou formado como Técnico em Desenvovimento de Sistemas pela ETE Adv. José David Gil Rodrigues e estou no 4º periodo do curso de Análise em Desenvolvimento de Sistemas na Estácio. Meu objetivo é conseguir uma oportunidade de trabalho na área de técnologia.  
+
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -18,8 +20,10 @@ Profissional dedicado e empenhado. Tenho 18 anos e sou de Recife, busco aperfei�
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
+
   
-### Tecnologias que tenho conhecimento:
+## Tecnologias que tenho conhecimento:
+
 
 <div style="display: inline_block">
   <img align="center" height="30" max-width="100%" alt="imagem" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
