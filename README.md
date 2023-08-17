@@ -4,19 +4,10 @@
 <a href="https://instagram.com/victoroliver_rick" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:victoroliv2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-### Sobre
-Desenvolvedor dedicado e determinado. Procuro colocar em prática meus conhecimentos adiquiridos como integrante de equipe de Projeto Integrador(PI) na ETE Adv. José David Gil Rodrigues, em que desenvolvi um projeto desktop funcional feito em Python, assim também, com os aprendizados adiquiridos através da faculdade Estácio, e de outras experiências que tive.
-
+## Sobre
+Profissional dedicado e empenhado. Tenho 18 anos e sou de Recife, busco aperfeiçoar minhas habilidades, colocar em prática meus conhecimentos adiquiridos, pelas instituições ETE Adv. José David Gil Rodrigues e Estácio, assim também dos aprendizados que tive num evento da Techstars Startup Weekend, entre outros. Atualmente sou formado como Técnico em Desenvovimento de Sistemas pela ETE Adv. José David Gil Rodrigues e estou no 4º periodo do curso de Análise em Desenvolvimento de Sistemas na Estácio. meu objetivo é conseguir uma oportunidade de trabalho na área de tecnologia.  
 
 <div style="display: inline_block">
-  <a href="https://github.com/vitchin">
-  <img align="center" height="200em" max-width="100%" src="https://github-readme-stats.vercel.app/api?username=vitchin&show_icons=true&theme=tokyonight">
-  <img align="center" height="180em" max-width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitchin&layout=compact&langs_count=16&theme=tokyonight">
-  </a>
-</div>
-
-
-<div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -28,7 +19,6 @@ Desenvolvedor dedicado e determinado. Procuro colocar em prática meus conhecime
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
   
-
 ### Tecnologias que tenho conhecimento:
 
 <div style="display: inline_block">
