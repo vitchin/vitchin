@@ -16,8 +16,8 @@ Profissional dedicado e empenhado. Busco aperfeiçoar minhas habilidades, coloca
 
 <div align="center">
   <div style="display: flex;">
-    <img height="200" max-width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitchin&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
-    <img height="200" max-width="100%" src="https://github-readme-stats.vercel.app/api?username=vitchin&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+    <img height="200" max-width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitchin&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img height="200" max-width="400" src="https://github-readme-stats.vercel.app/api?username=vitchin&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
   </div>
 </div>
     
