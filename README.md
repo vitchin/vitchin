@@ -1,12 +1,9 @@
-<h1 align="center">Olá 👋, meu nome é Victor Ricardo!</h1>
+## Olá 👋, meu nome é Victor Ricardo!
 
-<div style="display: inline_block" align="center">
-    <a href="https://www.linkedin.com/in/victor-ricardo-oliveira-nunes-a631a9248?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjWSQLz57Sjub6ZL%2BbslK8Q%3D%3D" target="_blank">
-      <img height="30" max-width="100%" src="https://img.shields.io/badge/-LinkedIn-F23030?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/victoroliver_rick" target="_blank">
-      <img height="30" max-width="100%" src="https://img.shields.io/badge/-Instagram-F23030?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:victoroliv2004@gmail.com">
-      <img height="30" max-width="100%" src="https://img.shields.io/badge/Gmail-F23030?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div style="display: inline_block" align="left">
+    <a href="https://www.linkedin.com/in/victor-ricardo-oliveira-nunes-a631a9248?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjWSQLz57Sjub6ZL%2BbslK8Q%3D%3D" target="_blank"><img height="30" max-width="100%" src="https://img.shields.io/badge/-LinkedIn-F00101?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/victoroliver_rick" target="_blank"><img height="30" max-width="100%" src="https://img.shields.io/badge/-Instagram-F02A00?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:victoroliv2004@gmail.com"><img height="30" max-width="100%" src="https://img.shields.io/badge/Gmail-F05400?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 
