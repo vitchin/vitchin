@@ -12,20 +12,17 @@
 
 ### ❓ Sobre 
 
+
 Profissional dedicado e empenhado. Busco aperfeiçoar minhas habilidades, colocar em prática meus conhecimentos adiquiridos, pelas instituições ETE Adv. José David Gil Rodrigues e Estácio, assim também dos aprendizados que tive num evento da Techstars Startup Weekend, entre outros. Atualmente sou formado como Técnico em Desenvovimento de Sistemas pela ETE Adv. José David Gil Rodrigues e estou no 4º periodo do curso de Análise em Desenvolvimento de Sistemas na Estácio. Meu objetivo é conseguir uma oportunidade de trabalho na área de técnologia.  
 
 
 ### 🖥️ Tecnologias que tenho conhecimento
+
+
 HTML5 • CSS3 • Javascript(ES6) • Angular • Laravel • Python • Java • PHP • C • MySQL • SQLite • React Native
 
 
 ### 🔥 Habilidades Emocionais
+
+
 Proativo • Responsável • Comunicativo • Trabalho bem em equipe
-
-
-<div align="center">
-  <div style="display: flex;">
-    <img height="150" max-width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitchin&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
-    <img height="150" max-width="100%" src="https://github-readme-stats.vercel.app/api?username=vitchin&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
-  </div>
-</div>
