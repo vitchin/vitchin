@@ -7,19 +7,21 @@
 </div>
 
 
-### ❓ Sobre 
+## ❓ Sobre 
 
 
 Profissional dedicado e empenhado. Busco aperfeiçoar minhas habilidades, colocar em prática meus conhecimentos adiquiridos, pelas instituições ETE Adv. José David Gil Rodrigues e Estácio, assim também dos aprendizados que tive num evento da Techstars Startup Weekend, entre outros. Atualmente sou formado como Técnico em Desenvovimento de Sistemas pela ETE Adv. José David Gil Rodrigues e estou no 4º periodo do curso de Análise em Desenvolvimento de Sistemas na Estácio. Meu objetivo é conseguir uma oportunidade de trabalho na área de técnologia.  
 
 
-### 🖥️ Tecnologias que tenho conhecimento
+## 🖥️ Tecnologias
 
+### Linguagens
+HTML5 • CSS3 • Javascript(ES6) • Python • Java • PHP • C • SQL
 
-HTML5 • CSS3 • Javascript(ES6) • Angular • Laravel • Python • Java • PHP • C • MySQL • SQLite • React Native
+### Frameworks
+Angular • Laravel • React Native
 
-
-### 🔥 Habilidades Emocionais
+## 🔥 Habilidades Emocionais
 
 
 Proativo • Responsável • Comunicativo • Trabalho bem em equipe
