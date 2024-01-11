@@ -6,22 +6,22 @@
     <a href = "mailto:victoroliv2004@gmail.com"><img height="30" max-width="100%" src="https://img.shields.io/badge/Gmail-F05400?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<br>
 
 ## ❓ Sobre 
+Profissional dedicado e empenhado. Busco aperfeiçoar minhas habilidades, colocar em prática meus conhecimentos adiquiridos, pelas instituições ETE Adv. José David Gil Rodrigues e Estácio, assim também  por eventos que participei, cursos, entre outros. Atualmente sou formado como Técnico em Desenvovimento de Sistemas pela ETE Adv. José David Gil Rodrigues e estou no 5º periodo do curso de Análise em Desenvolvimento de Sistemas na Estácio.  
 
-
-Profissional dedicado e empenhado. Busco aperfeiçoar minhas habilidades, colocar em prática meus conhecimentos adiquiridos, pelas instituições ETE Adv. José David Gil Rodrigues e Estácio, assim também dos aprendizados que tive num evento da Techstars Startup Weekend, entre outros. Atualmente sou formado como Técnico em Desenvovimento de Sistemas pela ETE Adv. José David Gil Rodrigues e estou no 4º periodo do curso de Análise em Desenvolvimento de Sistemas na Estácio. Meu objetivo é conseguir uma oportunidade de trabalho na área de técnologia.  
-
+<br>
 
 ## 🖥️ Tecnologias
 
 ### Linguagens
-HTML5 • CSS3 • Javascript(ES6) • Python • Java • PHP • C • SQL
+HTML5 • CSS3 • Javascript(ES6) • Python • Java • PHP • C • SQL • Git 
 
 ### Frameworks
-Angular • Laravel • React Native
+Angular • Laravel • React Native • Bootstrap 
+
+<br>
 
 ## 🔥 Habilidades Emocionais
-
-
 Proativo • Responsável • Comunicativo • Trabalho bem em equipe
