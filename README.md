@@ -1,4 +1,4 @@
-## Olá 👋, meu nome é Victor Ricardo!
+## 👋 Olá, meu nome é Victor Ricardo!
 
 <div style="display: inline_block" align="left">
     <a href="https://www.linkedin.com/in/victor-ricardo-oliveira-nunes-a631a9248?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjWSQLz57Sjub6ZL%2BbslK8Q%3D%3D" target="_blank"><img height="30" max-width="100%" src="https://img.shields.io/badge/-LinkedIn-F00101?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
