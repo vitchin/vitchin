@@ -16,7 +16,7 @@ Profissional dedicado e empenhado. Busco aperfeiçoar minhas habilidades, e colo
 ## 🖥️ Tecnologias
 
 ### Linguagens
-HTML5 • CSS3 • Javascript(ES6) • Python • Java • PHP • C • SQL • Git 
+HTML & CSS3 • Javascript • Python • Java • PHP • C • SQL 
 
 ### Frameworks
 Angular • Laravel • React Native • Bootstrap 
