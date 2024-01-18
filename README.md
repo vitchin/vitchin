@@ -10,7 +10,7 @@
 ## ❓ Sobre 
 Profissional dedicado e empenhado. Busco aperfeiçoar minhas habilidades e colocar em prática meus conhecimentos adiquiridos pelas instituições ETE Adv. José David Gil Rodrigues e Estácio, assim também por eventos que participei, cursos, entre outros.
 
-Sou formado como Técnico em Desenvovimento de Sistemas pela ETE Adv. José David Gil Rodrigues e estou no 5º periodo do curso de Análise em Desenvolvimento de Sistemas na Estácio. Atualmente estou estagiando na empresa Recife Tecnologia como estagiário em programação.
+Sou formado como Técnico em Desenvovimento de Sistemas pela ETE Adv. José David Gil Rodrigues e estou no 5º periodo do curso de Análise em Desenvolvimento de Sistemas na Estácio. Atualmente estou estagiando na empresa Recife Tecnologia como estagiário de programação.
 
 
 ### Tecnologias
