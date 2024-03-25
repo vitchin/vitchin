@@ -12,6 +12,8 @@ Profissional dedicado e empenhado. Busco aperfeiçoar minhas habilidades e coloc
 
 Sou formado como Técnico em Desenvovimento de Sistemas pela ETE ADV. JOSÉ DAVID GIL RODRIGUES e estou no 5º periodo do curso de Análise em Desenvolvimento de Sistemas na ESTÁCIO. Atualmente estou estagiando na empresa Recife Tecnologia como estagiário de programação.
 
+Atualmente, estou estagiando na Empresa RECIFE TÉCNOLOGIA, atuando no Front-End de Projetos, com isso, adiquiri novas habilidades técnicas, como o uso de Endpoints de API's, API's em si, e também a prática com o Framework Laravel. 
+
 
 ### Tecnologias
 HTML & CSS3 • Javascript • Python • Java • PHP • C • SQL • MySQL • Git
