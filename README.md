@@ -8,11 +8,11 @@
 
 
 ## ❓ Sobre 
-Profissional dedicado e empenhado. Busco aperfeiçoar minhas habilidades e colocar em prática meus conhecimentos adiquiridos pelas instituições ETE ADV. JOSÉ DAVID GIL RODRIGUES e ESTÁCIO, assim também por eventos que participei, cursos, entre outros.
+Profissional dedicado e empenhado. Busco aperfeiçoar minhas habilidades e colocar em prática meus conhecimentos adiquiridos pelas instituições _ETE Adv. José David Gil Rodrigues_ e _Estácio_, assim também por eventos que participei, cursos, entre outros.
 
-Sou formado como Técnico em Desenvovimento de Sistemas pela ETE ADV. JOSÉ DAVID GIL RODRIGUES e estou no 5º periodo do curso de Análise em Desenvolvimento de Sistemas na ESTÁCIO. Atualmente estou estagiando na empresa Recife Tecnologia como estagiário de programação.
+Sou formado como Técnico em Desenvovimento de Sistemas pela _ETE Adv. José David Gil Rodrigues_ e estou no 5º periodo do curso de Análise em Desenvolvimento de Sistemas na _Estácio_.
 
-Atualmente, estou estagiando na Empresa RECIFE TÉCNOLOGIA, atuando no Front-End de Projetos, com isso, adiquiri novas habilidades técnicas, como o uso de Endpoints de API's, API's em si, e também a prática com o Framework Laravel. 
+Atualmente, estou estagiando na Empresa _Recife Técnologia_, atuando no Front-End de Projetos, com isso, adiquiri novas habilidades técnicas, como o uso de Endpoints de API's, API's em si, e também a prática com o Framework Laravel. 
 
 
 ### Tecnologias
@@ -22,4 +22,4 @@ HTML & CSS3 • Javascript • Python • Java • PHP • C • SQL • MySQL �
 Angular • Laravel • React Native • Bootstrap 
 
 ### Soft Skills
-Liderança • Proativo • Responsável • Comunicativo • Trabalho bem em equipe • Compromisso
+Liderança • Proativo • Responsável • Comunicativo • Trabalho em equipe • Compromisso
