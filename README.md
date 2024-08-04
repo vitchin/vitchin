@@ -24,4 +24,4 @@ Javascript • PHP • Python • Java • C • SQL • MySQL • Git • HTML 
 Angular • Laravel • React Native • Bootstrap 
 
 ### Soft Skills
-Liderança • Proativo • Responsável • Comunicativo • Trabalho em equipe • Compromisso
+Resiliência • Proativo • Comunicativo • Trabalho em equipe • Compromisso
