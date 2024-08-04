@@ -14,7 +14,7 @@ Profissional dedicado e empenhado. Busco aperfeiçoar minhas habilidades e coloc
 Sou formado como Técnico em Desenvovimento de Sistemas pela _ETE Adv. José David Gil Rodrigues_ e graduado em Análise em Desenvolvimento de Sistemas pela _Estácio_.
 
 
-Tenho experiência como Desenvolvedor Web na Empresa _Recife Técnologia_, onde atuei na criação de páginas, implementação de novas funções, corrigindo código, assim também no manuseio de Endpoints. 
+Tenho experiência como Desenvolvedor Web na Empresa _Recife Técnologia_, onde atuei na criação de páginas, na implementação de novas funções, corrigindo código, assim também no manuseio de Endpoints. 
 
 
 ### Tecnologias
