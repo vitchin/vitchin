@@ -8,15 +8,17 @@
 
 
 ## ❓ Sobre 
-Profissional dedicado e empenhado. Busco aperfeiçoar minhas habilidades e colocar em prática meus conhecimentos adiquiridos pelas instituições _ETE Adv. José David Gil Rodrigues_ e _Estácio_, assim também por eventos que participei, cursos, entre outros.
+Profissional dedicado e empenhado. Busco aperfeiçoar minhas habilidades e colocar em prática meus conhecimentos adiquiridos pelas instituições em que estudei, assim também, por eventos que participei, cursos, entre outros.
 
-Sou formado como Técnico em Desenvovimento de Sistemas pela _ETE Adv. José David Gil Rodrigues_ e estou no 5º periodo do curso de Análise em Desenvolvimento de Sistemas na _Estácio_.
 
-Atualmente, estou estagiando na Empresa _Recife Técnologia_, atuando no Front-End de Projetos, com isso, adiquiri novas habilidades técnicas, como o uso de Endpoints de API's, API's em si, e também a prática com o Framework Laravel. 
+Sou formado como Técnico em Desenvovimento de Sistemas pela _ETE Adv. José David Gil Rodrigues_ e graduado em Análise em Desenvolvimento de Sistemas pela _Estácio_.
+
+
+Tenho experiência como Desenvolvedor Web na Empresa _Recife Técnologia_, onde atuei na criação de páginas, implementação de novas funções, corrigindo código, assim também no manuseio de Endpoints. 
 
 
 ### Tecnologias
-HTML & CSS3 • Javascript • Python • Java • PHP • C • SQL • MySQL • Git
+Javascript • PHP • Python • Java • C • SQL • MySQL • Git • HTML & CSS3
 
 ### Frameworks
 Angular • Laravel • React Native • Bootstrap 
