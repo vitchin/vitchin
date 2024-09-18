@@ -11,7 +11,7 @@
 Profissional dedicado e empenhado. Busco aperfeiçoar minhas habilidades e colocar em prática meus conhecimentos adiquiridos pelas instituições em que estudei, assim também, por eventos que participei, cursos, entre outros.
 
 
-Sou formado como Técnico em Desenvovimento de Sistemas pela _ETE Adv. José David Gil Rodrigues_, graduado em Análise e Desenvolvimento de Sistemas pela _Estácio_. Atualmente me encontro fazendo minha pós graduação no curso de **Ciência de Dados e Big Data Analytics** também pela Estácio.
+Sou formado como Técnico em Desenvovimento de Sistemas pela _ETE Adv. José David Gil Rodrigues_, graduado em Análise e Desenvolvimento de Sistemas pela _Estácio_. Atualmente me encontro fazendo minha pós-graduação no curso de **Ciência de Dados e Big Data Analytics**, também pela Estácio.
 
 
 Tenho experiência como Desenvolvedor Web na Empresa _Recife Técnologia_, onde atuei na criação de páginas, na implementação de novas funções, corrigindo código, assim também no manuseio de Endpoints. 
