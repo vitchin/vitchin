@@ -17,22 +17,10 @@ Sou formado como **Técnico em Desenvovimento de Sistemas** pela _ETE Adv. José
 Com mais de um ano de experiência como Desenvolvedor Web na _Recife Tecnologia_, atuei com foco em soluções eficientes utilizando **Laravel, PHP e JavaScript,** tecnologias nas quais possuo domínio. Tenho experiência no **consumo de APIs RESTful**, além de competência na **resolução de problemas complexos, correção de bugs, desenvolvimento de novas funcionalidades e implementação de interfaces seguindo os princípios de UX/UI.**
 
 ### Tecnologias
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+Python • Java • SQL • JavaScript • PHP • Laravel • Git • Excel • Power BI • Inglês: Boa comunicação e compreensão
 
 ### Frameworks
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+Laravel • Bootstrap
 
 ### Soft Skills
 Resiliência • Proativo • Comunicativo • Trabalho em equipe • Compromisso • Rápido aprendizado
