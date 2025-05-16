@@ -16,7 +16,7 @@ Sou formado como **Técnico em Desenvovimento de Sistemas** pela _ETE Adv. José
 
 Com mais de um ano de experiência como Desenvolvedor Web na _Recife Tecnologia_, atuei com foco em soluções eficientes utilizando **Laravel, PHP e JavaScript,** tecnologias nas quais possuo domínio. Tenho experiência no **consumo de APIs RESTful**, além de competência na **resolução de problemas complexos, correção de bugs, desenvolvimento de novas funcionalidades e implementação de interfaces seguindo os princípios de UX/UI.**
 
-### Tecnologias
+### Hard Skills
 Python • Java • SQL • JavaScript • PHP • Laravel • Git • Excel • Power BI • Inglês: Boa comunicação e compreensão
 
 ### Frameworks
