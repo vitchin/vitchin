@@ -4,9 +4,9 @@
 ### 👨‍💻 Sobre Mim
 Profissional dedicado e empenhado, sempre em busca de aperfeiçoar minhas habilidades e aplicar os conhecimentos adquiridos em minha formação, eventos e cursos.
 
-Sou **Técnico em Desenvolvimento de Sistemas** pela _ETE Adv. José David Gil Rodrigues_ e graduado em **Análise e Desenvolvimento de Sistemas** pela _Estácio_. Atualmente, estou cursando pós-graduação em **Ciência de Dados e Big Data Analytics**, também pela _Estácio_.
-
 Possuo experiência de mais de 1 ano como Web Developer na _Recife Tecnologia_, com foco em entregas eficientes utilizando **Laravel, PHP e JavaScript**, no consumo de **API RESTful**, resolução de problemas complexos, correção de bugs, desenvolvimento de novas funcionalidades e implementação de interfaces seguindo os princípios de **UX/UI**.
+
+Sou **Técnico em Desenvolvimento de Sistemas** pela _ETE Adv. José David Gil Rodrigues_ e graduado em **Análise e Desenvolvimento de Sistemas** pela _Estácio_. Atualmente, estou cursando pós-graduação em **Ciência de Dados e Big Data Analytics**, também pela _Estácio_.
 <br>
 <br>
 ### 🛠️ Hard Skills
