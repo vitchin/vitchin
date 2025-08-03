@@ -9,12 +9,13 @@ Sou **Técnico em Desenvolvimento de Sistemas** pela _ETE Adv. José David Gil R
 Possuo experiência de mais de 1 ano como Web Developer na _Recife Tecnologia_, com foco em entregas eficientes utilizando **Laravel, PHP e JavaScript**, no consumo de **API RESTful**, resolução de problemas complexos, correção de bugs, desenvolvimento de novas funcionalidades e implementação de interfaces seguindo os princípios de **UX/UI**.
 <br>
 <br>
-<br>
 ### 🛠️ Hard Skills
 Javascript • PHP • TypeScript • SQL • Python • Laravel • React.js • Next.js • API RestFul • Git • Excel • Power BI
 <br>
+<br>
 ### ✨ Soft Skills
 Resiliência • Proatividade • Comunicação • Trabalho em equipe • Compromisso • Rápido aprendizado
+<br>
 <br>
 ### 🗣️ Idiomas
 **Inglês:** Boa comunicação e compreensão
@@ -22,6 +23,7 @@ Resiliência • Proatividade • Comunicação • Trabalho em equipe • Compr
 <br>
 ### 🚀 Frameworks
 Laravel • Next.js • Bootstrap • Tailwind CSS
+<br>
 <br>
 <br>
 Sinta-se à vontade para entrar em contato! 👋
