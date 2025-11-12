@@ -6,17 +6,13 @@
 🇺🇸 I am a dedicated and passionate professional with over a year of experience as a Web Developer. My focus is on delivering efficient solutions using Laravel, PHP, and JavaScript, as well as building modern and functional user interfaces.
 
 ## 🛠️ Habilidades | Skills
-🇧🇷 **Hard Skills:** Javascript • PHP • TypeScript • SQL • Python • Laravel • React.js • Next.js • API RestFul • Git • Excel • Power BI
-<br>
-🇺🇸 **Hard Skills:** Javascript • PHP • TypeScript • SQL • Python • Laravel • React.js • Next.js • RESTful API • Git • Excel • Power BI
+**Hard Skills:** Javascript • PHP • TypeScript • SQL • Python • Laravel • React.js • Next.js • API RestFul • Git • Excel • Power BI
 <br>
 <br>
-🇧🇷 **Soft Skills:** Resiliência • Proatividade • Comunicação • Trabalho em equipe • Compromisso • Rápido aprendizado
-<br>
-🇺🇸 **Soft Skills:** Resilience • Proactivity • Communication • Teamwork • Commitment • Quick learning
+**Soft Skills:** Resiliência | Resilience • Proatividade | Proactivity • Comunicação | Communication • Trabalho em equipe | Teamwork • Compromisso | Commitment • Rápido aprendizado | Quick learning
 
 ## 🚀 Frameworks
-Laravel • Next.js • Bootstrap • Tailwind CSS
+Laravel • React.js • Next.js • Bootstrap • Tailwind CSS
 
 ## 🎓 Formação | Education
 🇧🇷 Técnico em Desenvolvimento de Sistemas, graduado em Análise e Desenvolvimento de Sistemas e cursando pós-graduação em Ciência de Dados e Big Data Analytics.
