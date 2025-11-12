@@ -1,29 +1,39 @@
 # 👋 Olá, eu sou Victor Ricardo | Hello, I’m Victor Ricardo
 
-## 👨‍💻 Sobre mim | About Me
+## 👨‍💻 Sobre mim | About me
 🇧🇷 Profissional dedicado e apaixonado por tecnologia, com mais de 1 ano de experiência como Web Developer. Tenho foco em entregas eficientes utilizando Laravel, PHP e JavaScript, além de construir interfaces de usuário modernas e funcionais.
-<br>
 <br>
 🇺🇸 I am a dedicated and passionate professional with over a year of experience as a Web Developer. My focus is on delivering efficient solutions using Laravel, PHP, and JavaScript, as well as building modern and functional user interfaces.
 
-## 🛠️ Habilidades | Skills
-**Hard Skills:** Javascript • PHP • TypeScript • SQL • Python • Laravel • React.js • Next.js • API RestFul • Git • Excel • Power BI
-<br>
-<br>
-**Soft Skills:** Resiliência | Resilience • Proatividade | Proactivity • Comunicação | Communication • Trabalho em equipe | Teamwork • Compromisso | Commitment • Rápido aprendizado | Quick learning
+---
 
-## 🚀 Frameworks
-Laravel • React.js • Next.js • Bootstrap • Tailwind CSS
+## 🧠 Habilidades | Skills
+
+| Skill | Level |
+|---|---|
+| Laravel | ██████████ 95% |
+| PHP | █████████ 90% |
+| JavaScript | ████████ 85% |
+| React / Next.js | ███████ 80% |
+| SQL | ████████ 85% |
+| Python | ██████ 70% |
+
+---
 
 ## 🎓 Formação | Education
 🇧🇷 Técnico em Desenvolvimento de Sistemas, graduado em Análise e Desenvolvimento de Sistemas e cursando pós-graduação em Ciência de Dados e Big Data Analytics.
 <br>
-<br>
 🇺🇸 Technical Degree in Systems Development, a degree in Systems Analysis and Development, and currently pursuing a postgraduate degree in Data Science and Big Data Analytics.
+
+---
+
+## 📊 Estatísticas | Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitchin&show_icons=true&theme=radical)
+
+---
 
 ## 📬 Contato | Contact
 🇧🇷 Sinta-se à vontade para entrar em contato!
-<br>
 <br>
 🇺🇸 Feel free to get in touch!
 <div style="display: inline_block" align="left">
