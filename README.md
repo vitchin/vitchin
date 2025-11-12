@@ -3,6 +3,7 @@
 ## 👨‍💻 Sobre mim | About Me
 🇧🇷 Profissional dedicado e apaixonado por tecnologia, com mais de 1 ano de experiência como Web Developer. Tenho foco em entregas eficientes utilizando Laravel, PHP e JavaScript, além de construir interfaces de usuário modernas e funcionais.
 <br>
+<br>
 🇺🇸 I am a dedicated and passionate professional with over a year of experience as a Web Developer. My focus is on delivering efficient solutions using Laravel, PHP, and JavaScript, as well as building modern and functional user interfaces.
 
 ## 🛠️ Habilidades | Skills
@@ -17,10 +18,12 @@ Laravel • React.js • Next.js • Bootstrap • Tailwind CSS
 ## 🎓 Formação | Education
 🇧🇷 Técnico em Desenvolvimento de Sistemas, graduado em Análise e Desenvolvimento de Sistemas e cursando pós-graduação em Ciência de Dados e Big Data Analytics.
 <br>
+<br>
 🇺🇸 Technical Degree in Systems Development, a degree in Systems Analysis and Development, and currently pursuing a postgraduate degree in Data Science and Big Data Analytics.
 
 ## 📬 Contato | Contact
 🇧🇷 Sinta-se à vontade para entrar em contato!
+<br>
 <br>
 🇺🇸 Feel free to get in touch!
 <div style="display: inline_block" align="left">
