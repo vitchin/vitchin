@@ -1,15 +1,15 @@
 # 👋 Olá, eu sou Victor Ricardo | Hello, I’m Victor Ricardo
 
 ## 👨‍💻 Sobre mim | About me
-🇧🇷 Profissional dedicado e apaixonado por tecnologia, com mais de 1 ano de experiência como Web Developer. Tenho foco em entregas eficientes utilizando Laravel, PHP e JavaScript, além de construir interfaces de usuário modernas e funcionais.
+**🇧🇷**    Profissional dedicado e apaixonado por tecnologia, com mais de 1 ano de experiência como Web Developer. Tenho foco em entregas eficientes utilizando Laravel, PHP e JavaScript, além de construir interfaces de usuário modernas e funcionais.
 <br>
-🇺🇸 I am a dedicated and passionate professional with over a year of experience as a Web Developer. My focus is on delivering efficient solutions using Laravel, PHP, and JavaScript, as well as building modern and functional user interfaces.
-
----
-
+<br>
+**🇺🇸**    I am a dedicated and passionate professional with over a year of experience as a Web Developer. My focus is on delivering efficient solutions using Laravel, PHP, and JavaScript, as well as building modern and functional user interfaces.
+<br>
+<br>
 ## 🧠 Habilidades | Skills
 
-| Skill | Level |
+| Hard Skills | Level |
 |---|---|
 | Laravel | ██████████ 95% |
 | PHP | █████████ 90% |
@@ -17,16 +17,16 @@
 | React / Next.js | ███████ 80% |
 | SQL | ████████ 85% |
 | Python | ██████ 70% |
-
----
+<br>
+<br>
 
 ## 🎓 Formação | Education
-🇧🇷 Técnico em Desenvolvimento de Sistemas, graduado em Análise e Desenvolvimento de Sistemas e cursando pós-graduação em Ciência de Dados e Big Data Analytics.
+**🇧🇷**    Técnico em Desenvolvimento de Sistemas, graduado em Análise e Desenvolvimento de Sistemas e cursando pós-graduação em Ciência de Dados e Big Data Analytics.
 <br>
-🇺🇸 Technical Degree in Systems Development, a degree in Systems Analysis and Development, and currently pursuing a postgraduate degree in Data Science and Big Data Analytics.
-
----
-
+<br/>
+**🇺🇸**    Technical Degree in Systems Development, a degree in Systems Analysis and Development, and currently pursuing a postgraduate degree in Data Science and Big Data Analytics.
+<br/>
+<br/>
 ## 📊 Estatísticas | Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitchin&show_icons=true&theme=radical)
 
