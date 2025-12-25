@@ -12,7 +12,7 @@ PHP • JavaScript • TypeScript • Python • MySQL • MongoDB • Firebase 
 <br>
 <br>
 ### 🔨 Frameworks
-Laravel • React.js / Next.js 
+Laravel • React.js / Next.js • Flask
 <br>
 <br>
 ## 🎓 Formação | Education
