@@ -7,19 +7,14 @@
 **🇺🇸**    I am a dedicated and passionate professional with over a year of experience as a Web Developer. My focus is on delivering efficient solutions using Laravel, PHP, and JavaScript, as well as building modern and functional user interfaces.
 <br>
 <br>
-## 🧠 Habilidades | Skills
-
-| Hard Skills | Level |
-|---|---|
-| Laravel | ██████████ 95% |
-| PHP | █████████ 90% |
-| JavaScript | ████████ 85% |
-| React / Next.js | ███████ 80% |
-| SQL | ████████ 85% |
-| Python | ██████ 70% |
+## 🧠 Hard Skills
+PHP • JavaScript • TypeScript • Python • MySQL • MongoDB • Firebase • Supabase • Power BI • Excel 
 <br>
 <br>
-
+### 🔨 Frameworks
+Laravel • React.js / Next.js 
+<br>
+<br>
 ## 🎓 Formação | Education
 **🇧🇷**    _Técnico em Desenvolvimento de Sistemas_, graduado em _Análise e Desenvolvimento de Sistemas_ e pós-graduado em _Ciência de Dados e Big Data Analytics_.
 <br>
@@ -27,11 +22,6 @@
 **🇺🇸**    _Technical Degree in Systems Development_, a degree in _Systems Analysis and Development_, and currently pursuing a postgraduate degree in _Data Science and Big Data Analytics_.
 <br/>
 <br/>
-## 📊 Estatísticas | Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitchin&show_icons=true&theme=radical)
-
----
-
 ## 📬 Contato | Contact
 **🇧🇷** Sinta-se à vontade para entrar em contato!
 <br>
